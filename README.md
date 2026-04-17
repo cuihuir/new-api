@@ -212,7 +212,7 @@ docker run --name new-api -d --restart always \
 - ⚡ [Claude Messages](https://docs.newapi.pro/en/docs/api/ai-model/chat/create-message)
 - ⚡ [Google Gemini](https://doc.newapi.pro/en/api/google-gemini-chat)
 - 🔄 [Rerank Models](https://docs.newapi.pro/en/docs/api/ai-model/rerank/create-rerank) (Cohere, Jina)
-- 🆕 **ZhiPu GLM Coding Plan → Codex** — Bridge ZhiPu GLM Coding Plan to Codex CLI via OpenAI Responses API ([not yet supported upstream](https://github.com/QuantumNous/new-api/issues/4283))
+- 🆕 **ZhiPu GLM Coding Plan → Codex** — Bridge ZhiPu GLM Coding Plan to Codex CLI via OpenAI Responses API ([not yet supported upstream](https://github.com/QuantumNous/new-api/issues/4283), [Setup Guide](docs/channel/zhipu-glm-coding-plan.en.md))
 
 **Intelligent Routing:**
 - ⚖️ Channel weighted random
