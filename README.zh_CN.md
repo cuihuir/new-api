@@ -212,6 +212,7 @@ docker run --name new-api -d --restart always \
 - ⚡ [Claude Messages](https://docs.newapi.pro/zh/docs/api/ai-model/chat/create-message)
 - ⚡ [Google Gemini](https://doc.newapi.pro/api/google-gemini-chat)
 - 🔄 [Rerank 模型](https://docs.newapi.pro/zh/docs/api/ai-model/rerank/create-rerank)（Cohere、Jina）
+- 🆕 **智谱 GLM Coding Plan → Codex** — 支持将智谱 GLM Coding Plan 通过 OpenAI Responses API 接入 Codex CLI（[官方暂未支持](https://github.com/QuantumNous/new-api/issues/4283)）
 
 **智能路由：**
 - ⚖️ 渠道加权随机
